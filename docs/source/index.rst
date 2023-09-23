@@ -6,7 +6,7 @@ Contents
 ==============
 
 ABBREVIATIONS   2
-INTRODUCTION   4
+Introduction   4
 HUMAN IMMUNODEFICIENCY VIRUS (HIV)   4
 OUTCOME INDICATORS   4
 IMPACT INDICATORS   5
@@ -72,7 +72,7 @@ VC                Vector Control
 WHO               World Health Organization
 
 ==============
-INTRODUCTION
+Introduction
 ==============
 
 HIV, TB, and Malaria are three of the world's most devastating infectious diseases, with significant impacts on the health and well-being of populations, especially in developing countries. These diseases influence individuals and communities, often leading to reduced life expectancies, increased healthcare costs, and lost productivity. Despite significant progress in reducing the incidence and prevalence of these diseases, they continue to be a significant public health concern, especially in low-income countries.
