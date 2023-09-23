@@ -1,40 +1,7 @@
 Indicator Reference Sheet
 ===================================
 
-==============
-Contents
-==============
-
-* Abbreviations   2
-* Introduction   4
-* Human Immunodeficiency Virus (HIV)   4
-
-* Outcome Indicators   4
-* Impact Indicators   5
-* Coverage Indicators   5
-
-* Tuberclosis (TB)   5
-
-* Outcome Indicators   5
-* Impact Indicators   5
-* Coverage Indicators   5
-
-* Malaria   6
-
-* Impact Indicators   6
-* Outcome Indicators   6
-* Coverage Indicators   6
-
-* Grants   7
-
-* HIV, KRCS   7
-* HIV, TNT   14
-* Malaria, AMREF   19
-* Malaria, TNT   20
-* TB, AMREF   26
-* TB, ECSA   28
-* TB, IGAD   31
-* TB, TNT   34
+.. contents:: Table of Contents
 
 ==============
 Abbreviations
