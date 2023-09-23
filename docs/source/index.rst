@@ -46,7 +46,7 @@ VC                Vector Control
 WHO               World Health Organization
 
 ==============
-Introduction
+Section 1 Introduction
 ==============
 
 HIV, TB, and Malaria are three of the world's most devastating infectious diseases, with significant impacts on the health and well-being of populations, especially in developing countries. These diseases influence individuals and communities, often leading to reduced life expectancies, increased healthcare costs, and lost productivity. Despite significant progress in reducing the incidence and prevalence of these diseases, they continue to be a significant public health concern, especially in low-income countries.
@@ -60,10 +60,11 @@ The document will serve as a reference tool for health professionals, policymake
 The data collected comes from different sources, including national health information systems, program monitoring and evaluation systems, and population-based surveys. To ensure accuracy and reliability, all data used in the reference sheet were collected using standardized methods and quality control procedures.
 
 ==============
-Human Immunodeficiency Virus (HIV)
+1.1 Human Immunodeficiency Virus (HIV)
 ==============
 
-Outcome Indicators
+1.1.1 Outcome Indicators
+------------------
 
 HIV Outcome Indicators refer to measures that are used to evaluate the impact of HIV programs on individuals and communities affected by HIV. These indicators focus on the results of HIV health outcomes resulting from HIV programs and interventions such as improvements in HIV-related morbidity and mortality, increased access to HIV testing and treatment, and reductions in HIV transmission and are used to determine whether the desired outcomes have been achieved.
 
@@ -71,7 +72,8 @@ HIV Outcome Indicators are used to evaluate the effectiveness of HIV programs in
 
 It is important to note that HIV Outcome Indicators are closely related to HIV Impact Indicators, but they focus more specifically on the results of HIV interventions rather than the overall impact of HIV on individuals and populations.
 
-Impact Indicators
+1.1.2 Impact Indicators
+~~~~~~~~~~~~~~~~~
 
 Impact Indicators refer to measures that are used to assess the progress towards reducing the impact of HIV on individuals and populations. The indicators are used to measure the effectiveness of HIV prevention and treatment programs, as well as their impact on individuals and communities affected by the virus.
 
@@ -79,7 +81,9 @@ These indicators focus on key areas such as the number of new HIV infections, th
 
 In general, HIV Impact Indicators are crucial for monitoring and assessing the effectiveness of HIV prevention and treatment programs, as well as guiding policy and resource allocation decisions to achieve the goal of ending the HIV epidemic.
 
-Coverage Indicators
+
+1.1.3 Coverage Indicators
+>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 HIV Coverage Indicators refer to measures used to assess the extent to which HIV prevention, treatment, and care services are reaching the individuals and populations that need them. These indicators focus on the availability, accessibility, and utilization of HIV services and are used to track progress towards achieving universal access to HIV services.
 
