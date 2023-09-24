@@ -1,4 +1,4 @@
-Indicator Reference Sheet
+Data Capture Tools
 ===================================
 
 .. contents:: Table of Contents
@@ -63,15 +63,15 @@ The data collected comes from different sources, including national health infor
 1.0 KEN-H-TNT
 ===============
 
-+------------+------------------------------------------------+------------------------------------------------------------------------+--------------------+--------------------+
-| Code       | Name                                           | Description                                                            | Type               | Frequency          |
-|            | (header rows optional)                         |                                                                        |                    |                    |
-+------------+================================================+========================================================================+====================+====================+
-| HTS-3a⁽ᴹ⁾  | Percentage of men who have sex with men that   | The indicator measures the proportion of MSM who have been tested for  | Coverage           | Quarterly          |  
-|            | have received an HIV test during the reporting | HIV and received their results during the specified reporting period.  |                    |                    |
-|            | period and know their results                  | This indicator is often used to monitor the effectiveness of HIV       |                    |                    |
-|            |                                                | testing and counselling services among MSM.                            |                    |                    |
-+------------+------------------------------------------------+------------------------------------------------------------------------+--------------------+--------------------+
++----------------------+------------------------+
+| Header 1             | Header 2               |
++======================+========================+
+| This is some short   | This is a longer piece |
+| text.                | of text that wraps in   |
+|                      | the second column.      |
++----------------------+------------------------+
+| Shorter text.        | Another piece of text. |
++----------------------+------------------------+
 
 
 
