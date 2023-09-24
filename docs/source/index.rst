@@ -58,10 +58,10 @@ Data Capture Tools
        field visit
 
 
-.. csv-table:: xyz csv
-        :header-rows: 1
-        :file: "I:\\My Drive\\Consulting\\GF Kenya\\Execution\\System development\\Dashboard\\Manuals\\tools\\captureModule.csv"
-        :widths: 20, 80
+.. csv-table:: Revised Capture Tools
+   :file: docs\\data\\captureModule.csv
+   :widths: 30, 70
+   :header-rows: 1
 
 
 
