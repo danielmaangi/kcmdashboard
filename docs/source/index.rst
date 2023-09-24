@@ -3,75 +3,26 @@ Data Capture Tools
 
 .. contents:: Table of Contents
 
-==============
-Abbreviations
-==============
 
-HMIS              Health Management Information System
-AIDS              Acquired Immunodeficiency Syndrome
-CHV               Community Health Volunteer
-CHW               Community Health Worker
-CM                Case Management
-DST               Drug Susceptibility Testing
-EQA               External Quality Assurance
-HIV               Human Immunodeficiency Virus
-HMIS              Health Management Information System
-HTS               HIV Testing and Counselling
-IRS               Indoor Residual Spraying
-ITN               Insecticide Treated Mosquito Net
-ITV               Integrated Vector Management
-KHIS              Kenya Health Information System
-LLIN              Long Lasting Insecticidal Net
-M&E               Monitoring and Evaluation
-MDR TB            Multidrug Resistant Tuberculosis
-MDR TB SL         Multidrug-resistant tuberculosis second line
-MSM               Men Who Have Sex with Men
-NSP               Needle and Syringe Program
-OST               Opioid Substitution Therapy
-PCR               Polymerase Chain Reaction
-PEP               Post Exposure Prophylaxis
-PFMs              Personal Protective Measures
-PLHIV             People Living with HIV
-PMTCT             Prevention of Mother to Child Transmission
-PreP              Pre-Exposure Prophylaxis
-PWID              People Who Inject Drugs
-RDT               Rapid Diagnostic Tests
-RNA PCR           Ribonucleic Acid Polymerase Chain Reaction
-RR TB             Rifampicin Resistant Tuberculosis
-TB                Tuberculosis
-TB/HIV            Tuberculosis/Human Immunodeficiency Virus Coinfection
-TG                Transgender
-TCP               Treatment Completion and Prevention
-VC                Vector Control
-WHO               World Health Organization
+========================
+1.0 Capture Module Tools
+========================
 
-==============
-Introduction
-==============
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Tool                                       | Purpose                                                                                                |
++============================================+========================================================================================================+
+| Global Fund Grant Form                     | To record basic grant information such as number, start and end dates                                  |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Constituency Engagement Tool               | To capture key issues affecting various constituents and timeline to address them.                     |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Oversight Committee Implementation Tracker | To capture key issues in grant implementation especially in procurement, programmatic and management.  |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Reprogramming or Reallocation form         | To submit a reprogramming or reallocation request to KCM                                               |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Oversight Field Visit: Add recommendation  | To record recommendations during an oversight field visit                                              |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
-HIV, TB, and Malaria are three of the world's most devastating infectious diseases, with significant impacts on the health and well-being of populations, especially in developing countries. These diseases influence individuals and communities, often leading to reduced life expectancies, increased healthcare costs, and lost productivity. Despite significant progress in reducing the incidence and prevalence of these diseases, they continue to be a significant public health concern, especially in low-income countries.
 
-HIV is a viral infection that is transmitted through sexual contact, shared needles, and mother-to-child transmission during pregnancy, delivery, or breastfeeding. TB is an infectious bacterial disease transmitted through the air when an infected person coughs or sneezes. Malaria is a mosquito-borne disease caused by a parasite it is transmitted through the bites of infected mosquitoes. Most Malaria cases and deaths occur in sub-Saharan Africa, with children under the age of five being the most vulnerable to the disease.
-
-These diseases have a significant impact on the social and economic development of affected countries, hindering progress towards achieving the Sustainable Development Goals. To address these challenges, it is important to have effective monitoring and evaluation systems in place. Performance indicators can help in tracking progress toward reducing the burden of these diseases and improving health outcomes for affected populations. In this reference sheet, we will provide an overview of some of the key performance indicators used to measure progress in the prevention, diagnosis, and treatment of HIV, TB, and Malaria.
-
-The document will serve as a reference tool for health professionals, policymakers, and program managers by providing a clear summary of the most relevant performance indicators for these diseases and help identify gaps in their programs and interventions and make informed decisions to improve the quality and effectiveness of their services.
-
-The data collected comes from different sources, including national health information systems, program monitoring and evaluation systems, and population-based surveys. To ensure accuracy and reliability, all data used in the reference sheet were collected using standardized methods and quality control procedures.
-
-===============
-1.0 KEN-H-TNT
-===============
-
-+----------------------+------------------------+
-| Header 1             | Header 2               |
-+======================+========================+
-| This is some short   | This is a longer piece |
-| text.                | of text that wraps in  |
-|                      | the second column.     |
-+----------------------+------------------------+
-| Shorter text.        | Another piece of text. |
-+----------------------+------------------------+
 
 
 
