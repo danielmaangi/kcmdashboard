@@ -67,8 +67,8 @@ The data collected comes from different sources, including national health infor
 | Header 1             | Header 2               |
 +======================+========================+
 | This is some short   | This is a longer piece |
-| text.                | of text that wraps in   |
-|                      | the second column.      |
+| text.                | of text that wraps in  |
+|                      | the second column.     |
 +----------------------+------------------------+
 | Shorter text.        | Another piece of text. |
 +----------------------+------------------------+
