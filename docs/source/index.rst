@@ -3,16 +3,19 @@ Data Capture Tools
 
 .. contents:: Table of Contents
 
-========================
-Loggin in
-=======================
-.. image:: images/access.png
-  :width: 400
-  :alt: Alternative text
 
 ========================
 1.0 Capture Module Tools
 ========================
+
+========================
+Loggin in
+=======================
+.. image:: docs/images/access.png
+  :width: 400
+  :alt: Alternative text
+
+
 
 .. grid-table::
 +--------------------------------------------+------------------------------------------------+
