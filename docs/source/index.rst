@@ -34,8 +34,8 @@ Data Capture Tools
 +--------------------------------------------+------------------------------------------------+
 
 
-.. list-table:: Frozen Delights!
-   :widths: 5 10
+.. list-table:: Data Capture Tools
+   :widths: 2 8
    :header-rows: 1
 
    * - Tool
@@ -56,6 +56,7 @@ Data Capture Tools
    * - Oversight Field Visit: Add recommendation
      - To record recommendations during an oversight
        field visit
+
 
 
 
