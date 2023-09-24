@@ -8,33 +8,30 @@ Data Capture Tools
 1.0 Capture Module Tools
 ========================
 
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Tool                                       | Purpose                                                                                                |
-+============================================+========================================================================================================+
-| Global Fund Grant Form                     | To record basic grant information such as number, start and end dates                                  |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Constituency Engagement Tool               | To capture key issues affecting various constituents and timeline to address them.                     |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Oversight Committee Implementation Tracker | To capture key issues in grant implementation especially in procurement, programmatic and management.  |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Reprogramming or Reallocation form         | To submit a reprogramming or reallocation request to KCM                                               |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Oversight Field Visit: Add recommendation  | To record recommendations during an oversight field visit                                              |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+
++--------------------------------------------+------------------------------------------------+
+| Tool                                       | Purpose                                        |                                                        
++============================================+================================================+
+| Global Fund Grant Form                     | To record basic grant information such as      |                     
++                                            + number, start and end dates                    +
+|                                            |                                                |
++--------------------------------------------+------------------------------------------------+
+| Constituency Engagement Tool               | To capture key issues affecting various        |
++                                            + constituents and timeline to address them.     +
+|                                            |                                                |            
++--------------------------------------------+------------------------------------------------+
+| Oversight Committee Implementation Tracker | To capture key issues in grant implementation  |
++                                            + especially in procurement, programmatic and    + 
+|                                            | management.                                    |
++--------------------------------------------+------------------------------------------------+
+| Reprogramming or Reallocation form         | To submit a reprogramming or reallocation      |                                             
++                                            + request to KCM                                 +
+|                                            |                                                | 
++--------------------------------------------+------------------------------------------------+
+| Oversight Field Visit: Add recommendation  | To record recommendations during an oversight  |                                           
++                                            + field visit                                    + 
+|                                            |                                                |
++--------------------------------------------+------------------------------------------------+
 
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
 
 
 
