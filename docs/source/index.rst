@@ -35,6 +35,7 @@ Data Capture Tools
 
 
 .. list-table:: Data Capture Tools
+   :width: 20%
    :widths: 2 8
    :header-rows: 1
 
