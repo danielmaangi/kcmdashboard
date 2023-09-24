@@ -20,7 +20,7 @@ Data Capture Tools
 |                                            |                                                |            
 +--------------------------------------------+------------------------------------------------+
 | Oversight Committee Implementation Tracker | To capture key issues in grant implementation  |
-+                                            + especially in procurement, programmatic and    + 
++ -------------------------------------------+ especially in procurement, programmatic and    + 
 |                                            | management.                                    |
 +--------------------------------------------+------------------------------------------------+
 | Reprogramming or Reallocation form         | To submit a reprogramming or reallocation      |                                             
