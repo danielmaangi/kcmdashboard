@@ -38,19 +38,24 @@ Data Capture Tools
    :widths: 15 10 30
    :header-rows: 1
 
-   * - Treat
-     - Quantity
+   * - Tool
      - Description
-   * - Albatross
-     - 2.99
-     - On a stick!
-   * - Crunchy Frog
-     - 1.49
-     - If we took the bones out, it wouldn't be
-       crunchy, now would it?
-   * - Gannet Ripple
-     - 1.99
-     - On a stick!
+   * - Global Fund Grant Form
+     - To record basic grant information such as
+       number, start and end dates
+   * - Constituency Engagement Tool
+     - To capture key issues affecting various
+       constituents and timeline to address them
+   * - Oversight Committee Implementation Tracker
+     - To capture key issues in grant implementation
+       especially in procurement, programmatic and
+       management
+   * - Reprogramming or Reallocation form
+     - To submit a reprogramming or reallocation
+       request to KCM
+   * - Oversight Field Visit: Add recommendation
+     - To record recommendations during an oversight
+       field visit
 
 
 
