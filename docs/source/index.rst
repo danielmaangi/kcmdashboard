@@ -61,7 +61,7 @@ Data Capture Tools
 .. csv-table:: xyz csv
         :header-rows: 1
         :file: "I:\\My Drive\\Consulting\\GF Kenya\\Execution\\System development\\Dashboard\\Manuals\\tools\\captureModule.csv"
-        :widths: 20, 380
+        :widths: 20, 80
 
 
 
