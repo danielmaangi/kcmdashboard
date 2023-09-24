@@ -35,7 +35,6 @@ Data Capture Tools
 
 
 .. list-table:: Data Capture Tools
-   :width: 20%
    :widths: 2 8
    :header-rows: 1
 
@@ -57,6 +56,14 @@ Data Capture Tools
    * - Oversight Field Visit: Add recommendation
      - To record recommendations during an oversight
        field visit
+
+
+.. csv-table:: xyz csv
+        :header-rows: 1
+        :file: "I:\\My Drive\\Consulting\\GF Kenya\\Execution\\System development\\Dashboard\\Manuals\\tools\\captureModule.csv"
+        :widths: 20, 380
+
+
 
 
 
