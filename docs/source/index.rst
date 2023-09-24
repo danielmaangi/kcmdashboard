@@ -63,18 +63,16 @@ The data collected comes from different sources, including national health infor
 1.0 KEN-H-TNT
 ===============
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
++------------+------------------------------------------------+------------------------------------------------------------------------+--------------------+--------------------+
+| Code       | Name                                           | Description                                                            | Type               | Frequency          |
+|            | (header rows optional)                         |                                                                        |                    |                    |
++------------+================================================+========================================================================+====================+====================+
+| HTS-3a⁽ᴹ⁾  | Percentage of men who have sex with men that   | The indicator measures the proportion of MSM who have been tested for  | Coverage           | Quarterly          |  
+|            | have received an HIV test during the reporting | HIV and received their results during the specified reporting period.  |                    |                    |
+|            | period and know their results                  | This indicator is often used to monitor the effectiveness of HIV       |                    |                    |
+|            |                                                | testing and counselling services among MSM.                            |                    |                    |
++------------+------------------------------------------------+------------------------------------------------------------------------+--------------------+--------------------+
+
 
 
 
