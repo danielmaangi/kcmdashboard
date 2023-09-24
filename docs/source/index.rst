@@ -63,8 +63,6 @@ The data collected comes from different sources, including national health infor
 1.0 KRCS HIV
 ===============
 
-.. table:: Truth table for "not"
-   :widths: auto
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
 | (header rows optional) |            |          |          |
