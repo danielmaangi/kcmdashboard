@@ -35,7 +35,7 @@ Data Capture Tools
 
 
 .. list-table:: Frozen Delights!
-   :widths: 15 10 30
+   :widths: 15 25
    :header-rows: 1
 
    * - Tool
